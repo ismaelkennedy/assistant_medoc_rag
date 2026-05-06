@@ -6,3 +6,4 @@ python-dotenv
 pandas
 numpy<2
 beautifulsoup4
+streamlit
